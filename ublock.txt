@@ -27,6 +27,7 @@
 ||babexl.com^$all
 ||bangbros.com^$all
 ||bang.com^$all
+||bbcsurprise.com^$all
 ||beeg.porn^$all
 ||beegsex.tv^$all
 ||bellesa.co^$all
@@ -38,6 +39,7 @@
 ||bigtitbitches.com^$all
 ||bigtitslust.com^$all
 ||bigvideo.net^$all
+||blackambush.com^$all
 ||blacked.com^$all
 ||blackedraw.com^$all
 ||brattysis.com^$all
@@ -64,8 +66,12 @@
 ||eispop.com^$all
 ||eporner.com^$all
 ||erome.com^$all
+||erome.tv^$all
 ||eronite.com^$all
 ||evilangel.com^$all
+||excogigirls.com^$all
+||exploitedcollegegirls.com^$all
+||exploitedteens.com^$all
 ||extremehoes.com^$all
 ||familystrokes.com^$all
 ||fansly.com^$all
@@ -233,6 +239,10 @@
 ||tushyraw.com^$all
 ||txnhh.com^$all
 ||txxx.com^$all
+||viralxxxporn.com^$all
+||viralxxxporn.net^$all
+||viralxxxporn.tv^$all
+||viralxxxporn.xyz^$all
 ||vixen.com^$all
 ||vogov.com^$all
 ||vxxx.com^$all
