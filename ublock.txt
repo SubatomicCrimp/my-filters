@@ -225,6 +225,7 @@
 ||thepornlinks.com^$all
 ||thepovgod.com^$all
 ||theyarehuge.com^$all
+||thothd.com^$all
 ||thothub.lol^$all
 ||thothub.to^$all
 ||thotsblog.com^$all
