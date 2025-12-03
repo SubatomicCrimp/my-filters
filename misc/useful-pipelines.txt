@@ -1,0 +1,4 @@
+# strip 'https://' and remove '/'
+sed 's/https:\/\///g' | tr -d / | sort -u
+
+
