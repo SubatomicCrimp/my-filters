@@ -1,0 +1,8 @@
+# strip 'https://' and remove '/' and sort while removing dupes
+sed 's/https:\/\///g' | tr -d / | sort -u
+
+# add ublock filter syntax
+awk '{print "||"$0"^$all"}'
+
+# generate ublock filter list from src/urls.txt
+cat src/ublock-header.txt <(awk '{print "||"$0"^$all"}' src/urls.txt) > ublock.txt
