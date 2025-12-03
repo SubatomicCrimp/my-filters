@@ -1,4 +1,4 @@
-# strip 'https://' and remove '/'
+# strip 'https://' and remove '/' and sort while removing dupes
 sed 's/https:\/\///g' | tr -d / | sort -u
 
 
