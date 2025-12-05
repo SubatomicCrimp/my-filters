@@ -1,5 +1,5 @@
-# strip 'https://' and remove '/' and sort while removing dupes
-sed 's/https:\/\///g' | tr -d / | sort -u
+# trim down SLD.TLD and sort while removing dupes
+sed 's/https:\/\///g' | cut -d "/" -f1 | awk -F. '{print $(NF-1)"."$NF}' | sort -u
 
 # add ublock filter syntax
 awk '{print "||"$0"^$all"}'
