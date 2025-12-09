@@ -1,8 +1,8 @@
 # trim down to SLD.TLD and sort while removing dupes
-sed 's/^https:\/\///g' | cut -d "/" -f1 | sed 's/^www[0-9]*\.//g' | sort -u
+tr '[:upper:]' '[:lower:]' | sed 's/^https:\/\///g' | cut -d "/" -f1 | sed 's/^www[0-9]*\.//g' | sort -u
 
 # trim down src/urls.txt to SLD.TLD and sort while removing dupes
-sed 's/^https:\/\///g' src/urls.txt | cut -d "/" -f1 | sed 's/^www[0-9]*\.//g' | sort -u > $$ && mv $$ src/urls.txt
+tr '[:upper:]' '[:lower:]' < src/urls.txt | sed 's/^https:\/\///g' | cut -d "/" -f1 | sed 's/^www[0-9]*\.//g' | sort -u > $$ && mv $$ src/urls.txt
 
 # add ublock filter syntax
 awk '{print "||"$0"^$all"}'
