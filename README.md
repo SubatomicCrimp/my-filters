@@ -1,6 +1,8 @@
 # my-filters
 https://github.com/SubatomicCrimp/my-filters
 
+[Subscribe to My uBlock Filters](ubo:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2FSubatomicCrimp%2Fmy-filters%2Frefs%2Fheads%2Fmain%2Fublock.txt&title=My%20uBlock%20Filters)
+
 # LICENSE
 This is free and unencumbered software released into the public domain.
 
