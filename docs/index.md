@@ -1,8 +1,9 @@
 # My personal uBlock Filter Lists
 Subscribe to: 
- - [My uBlock Porn Filters](ubo:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2FSubatomicCrimp%2Fmy-filters%2Frefs%2Fheads%2Fmain%2Fublock-porn.txt&title=My%20uBlock%20Porn%20Filters)
+ - [My uBlock Porn Filters](ubo:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2FSubatomicCrimp%2Fmy-filters%2Frefs%2Fheads%2Fmain%2Ffilters%2Fublock-porn.txt&title=My%20uBlock%20Porn%20Filters)
 
-[Source on Github](https://github.com/SubatomicCrimp/my-filters)
+Sources:
+ - [My uBlock Porn Filters](https://github.com/SubatomicCrimp/my-filters/blob/main/src/porn.txt)
 
 # LICENSE
 This is free and unencumbered software released into the public domain.
