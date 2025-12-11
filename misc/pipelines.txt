@@ -8,4 +8,4 @@ tr '[:upper:]' '[:lower:]' < src/porn.txt | sed 's/^https:\/\///g' | cut -d "/" 
 awk '{print "||"$0"^$all"}'
 
 # generate ublock filter list from src/urls.txt
-cat src/ublock-porn-header.txt <(awk '{print "||"$0"^$all"}' src/porn.txt) > ublock-porn.txt
+cat src/ublock-porn-header.txt <(awk '{print "||"$0"^$all"}' src/porn.txt) > filters/ublock-porn.txt
