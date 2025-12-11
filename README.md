@@ -1,7 +1,7 @@
 # my-filters
 
 Lists: 
- - My uBlock Filters: [ublock.txt](https://github.com/SubatomicCrimp/my-filters/blob/main/ublock.txt)
+ - My uBlock Porn Filters: [ublock-porn.txt](https://github.com/SubatomicCrimp/my-filters/blob/main/ublock-porn.txt)
 
 # LICENSE
 This is free and unencumbered software released into the public domain.
